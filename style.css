@@ -311,23 +311,23 @@ a:hover{
     background-position: center;
 }
 .gallery-img:nth-child(1){
-    background-image: url('Image/1.jpg');
+    background-image: url('Image/11.jpg');
     background-position-x: right;
 }
 .gallery-img:nth-child(3){
-    background-image: url('Image/4.jpg');
+    background-image: url('Image/21.jpg');
 }
 .gallery-img:nth-child(2){
     background-position-y: top;
-    background-image: url('Image/5.jpg');
+    background-image: url('Image/31.jpg');
 }
 .gallery-img:nth-child(4){
     background-position-y: top;
-    background-image: url('Image/5.jpg');
+    background-image: url('Image/41.jpg');
 }
 .gallery-img:nth-child(5){
     background-position-y: top;
-    background-image: url('Image/5.jpg');
+    background-image: url('Image/51.jpg');
 }
 @media (max-width:1000px){
     .gallery{
